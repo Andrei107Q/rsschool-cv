@@ -31,5 +31,5 @@ I love programming, I am constantly learning new technologies. Today I know more
   I finished the course: SoloLearn 'Python 3 Tutorial'
 
 ## English level
-  *Pre-intermediate
-  *I upgrade my qualifications in my spare time
+  * Pre-intermediate
+  * I upgrade my qualifications in my spare time
